@@ -345,7 +345,7 @@
     }
     
     .progress-line.java span {
-        width: 75%;
+        width: 50%;
     }
     
     .progress-line span::after {
