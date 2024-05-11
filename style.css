@@ -370,15 +370,15 @@
     }
     
     .progress-line.Javascript span::after {
-        content: "85%";
-    }
-    
-    .progress-line.python span::after {
         content: "50%";
     }
     
-    .progress-line.java span::after {
+    .progress-line.python span::after {
         content: "75%";
+    }
+    
+    .progress-line.java span::after {
+        content: "50%";
     }
     
     .progress-line span::before {
