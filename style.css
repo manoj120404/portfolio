@@ -337,11 +337,11 @@
     }
     
     .progress-line.Javascript span {
-        width: 85%;
+        width: 50%;
     }
     
     .progress-line.python span {
-        width: 50%;
+        width: 75%;
     }
     
     .progress-line.java span {
